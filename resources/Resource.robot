@@ -2,7 +2,7 @@
 Library    SeleniumLibrary
 
 *** Variables ***
-${Browser}      chrome
+${Browser}                  chrome
 ${Home_Url}                 http://automationpractice.com
 
 *** Keywords ***
